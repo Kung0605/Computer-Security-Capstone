@@ -1,0 +1,1 @@
+source /home/kungtacheng/pwndbg/gdbinit.py
